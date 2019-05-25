@@ -1,0 +1,7 @@
+{
+  "name": "koreaboo",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
